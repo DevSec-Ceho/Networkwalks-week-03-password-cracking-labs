@@ -327,84 +327,24 @@ The screenshots are organized sequentially to demonstrate the tools used, hash e
 Each screenshot represents a stage of the practical implementation.
 
 ## Module 01: Password Cracking with John the Ripper (JTR)
+<img width="887" height="440" alt="cracking 1" src="https://github.com/user-attachments/assets/bce96f3d-ce65-49fc-a423-c30e6e80614e" />
 
-### Screenshot 01 – John the Ripper / Johnny GUI Setup
+<img width="1920" height="1080" alt="Screenshot (318)" src="https://github.com/user-attachments/assets/9389ee49-e5de-4966-9df9-b3fc7d1b9eff" />
 
-This screenshot demonstrates the installation and configuration of John the Ripper and Johnny GUI.
+<img width="1920" height="1080" alt="Screenshot (319)" src="https://github.com/user-attachments/assets/42d1d459-5284-47dd-8a23-b5ed2baa5be9" />
+<img width="1920" height="1080" alt="Screenshot (320)" src="https://github.com/user-attachments/assets/da190b1f-e6ab-4fca-9fd7-b05563ce30ec" />
+<img width="1920" height="1080" alt="Screenshot (321)" src="https://github.com/user-attachments/assets/f0fd2b92-f3a1-48e7-9e47-96e0a1a08e2d" />
+<img width="1920" height="1080" alt="Screenshot (322)" src="https://github.com/user-attachments/assets/2eaf1f25-a2b4-4b21-865f-bdc07b5d8a0f" />
 
-<!-- UPLOAD SCREENSHOT 01 HERE -->
-
-### Screenshot 02 – PDF Hash Extraction
-
-This screenshot shows the extraction of the password hash from the protected PDF document.
-
-<!-- UPLOAD SCREENSHOT 02 HERE -->
-
-### Screenshot 03 – Saving the Extracted Hash
-
-This screenshot demonstrates saving the extracted PDF password hash into the `hash1.txt` file using Notepad.
-
-<!-- UPLOAD SCREENSHOT 03 HERE -->
-
-### Screenshot 04 – Loading the Hash into Johnny GUI
-
-This screenshot shows the process of importing the prepared hash file into Johnny GUI.
-
-<!-- UPLOAD SCREENSHOT 04 HERE -->
-
-### Screenshot 05 – Password Cracking Process
-
-This screenshot demonstrates the password-recovery operation being performed through Johnny GUI.
-
-<!-- UPLOAD SCREENSHOT 05 HERE -->
-
-### Screenshot 06 – Successful Password Recovery and PDF Verification
-
-This screenshot provides evidence of the successful recovery of the password `good-luck` and verification by opening the protected PDF document.
-
-<!-- UPLOAD SCREENSHOT 06 HERE -->
-
----
 
 ## Module 02: Password Cracking with NetworkWalks Tools
 
-### Screenshot 07 – Accessing the NetworkWalks Hash Calculator
+<img width="1920" height="1080" alt="Screenshot (323)" src="https://github.com/user-attachments/assets/eb39fee2-2428-4d42-9af5-4bf5d1f9e299" />
+<img width="1920" height="1080" alt="Screenshot (324)" src="https://github.com/user-attachments/assets/1a89445a-b482-454d-a542-8d494dc3aee9" />
+<img width="1920" height="1080" alt="Screenshot (325)" src="https://github.com/user-attachments/assets/727dbbb8-7694-4fdf-bb68-fc2787c7a736" />
+<img width="1920" height="1080" alt="Screenshot (326)" src="https://github.com/user-attachments/assets/f27f64e2-a64b-456c-9326-f8e4150adf02" />
+<img width="1920" height="1080" alt="Screenshot (327)" src="https://github.com/user-attachments/assets/9127d52e-5fb6-47a0-a29e-9c9ecec81d2b" />
 
-This screenshot shows the NetworkWalks Hash Calculator interface used for the second practical exercise.
-
-<!-- UPLOAD SCREENSHOT 07 HERE -->
-
-### Screenshot 08 – Uploading the Protected PDF and Extracting Its Hash
-
-This screenshot demonstrates uploading the password-protected PDF and generating its corresponding hash.
-
-<!-- UPLOAD SCREENSHOT 08 HERE -->
-
-### Screenshot 09 – Copying the Extracted PDF Hash
-
-This screenshot shows the extracted PDF hash being copied for submission to the password-cracking tool.
-
-<!-- UPLOAD SCREENSHOT 09 HERE -->
-
-### Screenshot 10 – Submitting the Hash to the NetworkWalks Password Cracker
-
-This screenshot demonstrates submitting the extracted hash to the NetworkWalks Password Cracker and initiating the recovery process.
-
-<!-- UPLOAD SCREENSHOT 10 HERE -->
-
-### Screenshot 11 – Successful Password Recovery
-
-This screenshot provides evidence of the successful recovery of the password `password1`.
-
-<!-- UPLOAD SCREENSHOT 11 HERE -->
-
-### Screenshot 12 – Opening the Protected PDF with the Recovered Password
-
-This screenshot demonstrates using the recovered password to unlock and access the protected PDF document.
-
-<!-- UPLOAD SCREENSHOT 12 HERE -->
-
----
 
 ## 📚 References and Learning Resources
 
